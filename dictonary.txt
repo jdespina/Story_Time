@@ -1,21 +1,21 @@
 Raesfeld 
 Flughafen - Airport
-Berlin 
-Bratwurst 
+Berlin - Capital of Germany
+Bratwurst - German Sausage
 Hauptstrasse - Main Street
 Brot - Loaf
 Gauss - unit of magnetic force
 Klimaanlage - Air Conditioning
 Rammstein - German Heavy Metal Artist
 Musik - Music
-Porsche 
-BMW 
+Porsche - Car Manufacturer
+BMW - Car Manufacturer
 Biergarten - beer garden (outdoor area where beer and local food is served)
 Ratskeller - bar/restaurant located in the basement of a city hall
-Dirndel  
+Dirndel - a type of dress
 Lederhose - Leather Pants
-Audi 
+Audi - car Manufacturer
 Schloss - Lock
-Munich 
+Munich - a City
 wettbewerbsfaehig - competitive
-Mehlhase 
+Mehlhase - Alexandra Mehlhase is a software engineering lecturer in the School of Computing, Informatics, and Decision Systems Engineering. She worked at the Technical University of Berlin for more than six years as a research and teaching assistant in software engineering. Her research interests include modeling and simulation of variable-structure models and software engineering. 
