@@ -2,7 +2,7 @@ Raesfeld
 Flughafen 
 Berlin 
 Bratwurst 
-Hauptstrasse 
+Hauptstrasse = Main Street 
 Brot 
 Gauss 
 Klimaanlage 
