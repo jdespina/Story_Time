@@ -18,4 +18,6 @@ Audi - car Manufacturer
 Schloss - Lock
 Munich - a City
 wettbewerbsfaehig - competitive
-Mehlhase - Alexandra Mehlhase is a software engineering lecturer in the School of Computing, Informatics, and Decision Systems Engineering. She worked at the Technical University of Berlin for more than six years as a research and teaching assistant in software engineering. Her research interests include modeling and simulation of variable-structure models and software engineering. 
+Mehlhase - Alexandra Mehlhase is a software engineering lecturer in the School of Computing, Informatics, and Decision Systems 
+Engineering. She worked at the Technical University of Berlin for more than six years as a research and teaching assistant 
+in software engineering. Her research interests include modeling and simulation of variable-structure models and software engineering. 
